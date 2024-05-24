@@ -1,0 +1,39 @@
+# Binarios para programas y complementos
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with 'go test -c'
+*.test
+
+# Archivos de salida
+*.out
+
+# Dependencias
+/vendor/
+
+# Archivos de IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+vcs.xml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos de configuración local
+*.env
+*.env.local
+
+# Certificados SSL
+*.pem
+
+# Archivos de token
+*.token
